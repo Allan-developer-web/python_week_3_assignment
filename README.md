@@ -1,4 +1,4 @@
-# Python_week_3_assignment
+# Python Week 3 Assignment
 How it works:
 
 1. Function
